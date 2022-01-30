@@ -34,7 +34,7 @@
 
                   <br />
                   <div style={{ overflow: "hidden", margin: "0 auto", display:'block', maxWidth: "736px"}} >
-                  <iframe title="avax dex" allowTransparency="true" src="https://dexavaxdarkonly.netlify.app/swap?outputCurrency=0xcF319837A5240b3dEf0D67De726ce4758CF0Bcc2" scrolling="no" style={{backgroundColor:'transparent', border: "0px none",height: "938px",marginTop: "-217px",width: "800px",maxWidth:'100%', marginBottom: "-132px"}} />
+                  <iframe title="avax dex" allowTransparency="true" src="https://main.liquidswap.trade/swap?outputCurrency=0xcF319837A5240b3dEf0D67De726ce4758CF0Bcc2" scrolling="no" style={{backgroundColor:'transparent', border: "0px none",height: "938px",marginTop: "-217px",width: "800px",maxWidth:'100%', marginBottom: "-132px"}} />
                   </div>
 
                 </div>
