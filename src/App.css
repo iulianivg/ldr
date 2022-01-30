@@ -1,0 +1,35 @@
+body {
+    overflow-x: hidden;
+    background: black;
+}
+
+.TopHeader{
+    font-size: 6.0vh;
+    background: -webkit-linear-gradient(180deg, #15B0F3 0%, #318DE9 12.15%, #4079E3 23.75%, #654AD5 39.87%, #9045C2 51.6%, #E5409B 68.31%, #FB5843 85.74%, #FD7942 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    font-weight: bold;   
+}
+
+.NewMulti{
+    background: -webkit-linear-gradient(118.37deg, #E5409B 11.34%, #FB5843 52.57%, #FD7942 95.21%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    font-weight: bold;   
+    font-size:6.0vh;
+}
+
+@media screen and (min-width: 600px) {
+    .TopHeader {
+      font-size: 140px;
+    }
+
+    .NewMulti{
+        font-size: 56px;
+    }
+  }
+
